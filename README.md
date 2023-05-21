@@ -9,4 +9,9 @@ To install - download both folders, right click on .inf files and Install.
 
 Both vertical & horizontal scrolls now should work on your Windows 10.
 
+or using :
+```
+choco install mac-precision-touchpad
+```
+
 Enjoy!
